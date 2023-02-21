@@ -1,4 +1,4 @@
-# Making-StackOverFlow-less-intimidating
+# What makes a good Stack Overflow question?
 
 How to post good questions on Stack Overflow?
 We all know that Stack Overflow can be an extremely toxic place for new programmers. When new programmers ask questions on the platform, they get trolled and receive unhelpful answers if the community interprets the post as a 'bad' question. This discourages new coders from learning and raises the entry bar to programming.
